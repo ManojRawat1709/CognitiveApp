@@ -1,0 +1,9 @@
+C:\TFS\CognitiveWebApp\GBC.Int.Lib.Core.Disability.CognitiveManager\bin\Debug\netcoreapp3.1\GBC.Int.Lib.Core.Disability.CognitiveManager.deps.json
+C:\TFS\CognitiveWebApp\GBC.Int.Lib.Core.Disability.CognitiveManager\bin\Debug\netcoreapp3.1\GBC.Int.Lib.Core.Disability.CognitiveManager.dll
+C:\TFS\CognitiveWebApp\GBC.Int.Lib.Core.Disability.CognitiveManager\obj\Debug\netcoreapp3.1\GBC.Int.Lib.Core.Disability.CognitiveManager.AssemblyInfoInputs.cache
+C:\TFS\CognitiveWebApp\GBC.Int.Lib.Core.Disability.CognitiveManager\obj\Debug\netcoreapp3.1\GBC.Int.Lib.Core.Disability.CognitiveManager.AssemblyInfo.cs
+C:\TFS\CognitiveWebApp\GBC.Int.Lib.Core.Disability.CognitiveManager\bin\Debug\netcoreapp3.1\GBC.Int.Lib.Core.Disability.CognitiveManager.pdb
+C:\TFS\CognitiveWebApp\GBC.Int.Lib.Core.Disability.CognitiveManager\obj\Debug\netcoreapp3.1\GBC.Int.Lib.Core.Disability.CognitiveManager.csproj.CoreCompileInputs.cache
+C:\TFS\CognitiveWebApp\GBC.Int.Lib.Core.Disability.CognitiveManager\obj\Debug\netcoreapp3.1\GBC.Int.Lib.Core.Disability.CognitiveManager.dll
+C:\TFS\CognitiveWebApp\GBC.Int.Lib.Core.Disability.CognitiveManager\obj\Debug\netcoreapp3.1\GBC.Int.Lib.Core.Disability.CognitiveManager.pdb
+C:\TFS\CognitiveWebApp\GBC.Int.Lib.Core.Disability.CognitiveManager\obj\Debug\netcoreapp3.1\GBC.Int.Lib.Core.Disability.CognitiveManager.csprojAssemblyReference.cache

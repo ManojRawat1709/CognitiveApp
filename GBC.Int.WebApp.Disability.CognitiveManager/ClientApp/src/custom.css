@@ -1,0 +1,121 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+.err {
+    color:red;
+}
+
+
+
+.fade.in {
+    opacity: 1;
+}
+
+.modal.in .modal-dialog {
+    -webkit-transform: translate(0, 0);
+    -o-transform: translate(0, 0);
+    transform: translate(0, 0);
+}
+
+.modal-backdrop .fade .in {
+    opacity: 0.5 !important;
+}
+
+
+.modal-backdrop.fade {
+    opacity: 1 !important;
+}
+
+.modal-backdrop {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+
+.modal {
+    display: block
+}
+
+
+.fade {
+    transition: opacity .15s linear;
+    transition-property: opacity;
+    transition-duration: 0.15s;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+}
+
+.loader {
+    position: absolute;
+    top: calc(50% - 4em);
+    left: calc(50% - 4em);
+    width: 4em;
+    height: 4em;
+    border: 13px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 13px solid blue;
+    border-bottom: 13px solid blue;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 1.3s linear infinite;
+}
+
+.a {
+    position: absolute;
+    top: calc(50% - 4em);
+    left: calc(50% - 4em);
+}
+
+.table-wrapper {
+    background: #ffc107a3;
+    color: #fff;
+    padding: 20px 25px;
+    border-radius: 3px;
+    min-width: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+.invalid {
+    border: 1px solid #ff0000
+}
+.table-title {
+    padding-bottom: 35px;
+    background: #5a5675;
+    color: #fff;
+    padding: 16px 30px;
+    min-width: 100%;
+    margin: 20px 0px 15px 0px;
+    border-radius: 3px 3px 0 0;
+}
+.p-16 {
+    padding: 16px 30px;
+}
+.p-20 {
+    padding-bottom: 20px;
+}
+
+.banner {
+    background: #e8ae00;
+    min-width: 100%;
+    border-radius: 3px 3px 0 0;
+}
+
+    .table-title .btn {
+        color: #fff;
+        float: right;
+        font-size: 13px;
+        border: none;
+        min-width: 50px;
+        border-radius: 2px;
+        border: none;
+        outline: none !important;
+        margin-left: 10px;
+    }
